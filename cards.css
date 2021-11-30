@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(36, 143, 36);
+    color: rgb(255, 0, 0);
+    
+}
+#playersCards, #dealersCards{
+    height: 200px;
+    background-color: rgb(36, 34, 34);
+
+}
+
+#playersCards{
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Blackjack.svg/1200px-Blackjack.svg.png);
+    background-size: contain;
+
+}
+
+#dealersCards{
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Blackjack.svg/1200px-Blackjack.svg.png);
+    background-size: contain;
+}
